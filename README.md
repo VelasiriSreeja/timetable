@@ -132,11 +132,12 @@ Execute the program
 
 # OUPUT:
 ## Webpage:
-![Screenshot (37)](https://user-images.githubusercontent.com/118344328/213220786-213b73df-40af-4ba9-9ee1-96f055418f48.png)
-
+![Screenshot (36)](https://user-images.githubusercontent.com/118344328/213220582-f0c766f1-1aeb-4c8b-bf5c-a744c76c0e61.png)
 
 
 ## html validator:
-![Screenshot (36)](https://user-images.githubusercontent.com/118344328/213220582-f0c766f1-1aeb-4c8b-bf5c-a744c76c0e61.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/118344328/213220786-213b73df-40af-4ba9-9ee1-96f055418f48.png)
+
+
 
 
